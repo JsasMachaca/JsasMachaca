@@ -35,7 +35,7 @@ func main() {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loadept&repo=takanakuq-kuna&theme=tokyonight)](https://github.com/loadept/takanakuq-kuna)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loadept&repo=takanakuq-kuna-mobile&theme=tokyonight)](https://github.com/loadept/takanakuq-kuna-mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loadept&repo=qtheme&theme=tokyonight)](https://github.com/loadept/qtheme)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loadept&repo=wireconf&theme=tokyonight)](https://github.com/loadept/wireconf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loadept&repo=pipeBot&theme=tokyonight)](https://github.com/loadept/pipeBot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loadept&repo=tiksup&theme=tokyonight)](https://github.com/loadept/tiksup)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loadept&repo=fileserver&theme=tokyonight)](https://github.com/loadept/fileserver)
 
